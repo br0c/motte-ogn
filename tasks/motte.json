@@ -1,0 +1,17 @@
+{
+    "tasks": [
+        {
+            "name": "motte_du_caire",
+            "color": "000000",
+            "wlist": [
+                "DD853A",
+                "DDDC43",
+                "DD8788",
+                "DDC39F",
+                "4055E0",
+                "DD9948",
+                "40750A"
+            ]
+        }
+    ]
+}
